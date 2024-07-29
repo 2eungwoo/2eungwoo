@@ -1,4 +1,4 @@
-## Hi there 👋
+## 
 ![snake gif](https://github.com/2eungwoo/2eungwoo/blob/output/github-contribution-grid-snake.svg)
 <!--
 **2eungwoo/2eungwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
