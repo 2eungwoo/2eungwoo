@@ -31,16 +31,14 @@ Here are some ideas to get you started:
 </p>  -->
 
 <p align="center">
-  <a href="https://2eungwoo.tistory.com/">
-    <img src="http://img.shields.io/badge/-Tistory%20[KR]-brown?style=flat-square&logo=tistory&link=https://2eungwoo.tistory.com/" />
-  </a>
-  <a href="https://nonstop-snapper-a75.notion.site/2201f679d4cb80b68ee8e5a750202f39?pvs=74">
-    <img src="https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&logoColor=white" />
-  </a>
-  <a href="mailto:localhost9843@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:localhost9843@gmail.com" />
-  </a>
+  <a href="https://2eungwoo.tistory.com/" target="_blank" style="text-decoration: none;">🙂 Blog</a><br/>
+  <a href="https://nonstop-snapper-a75.notion.site/2201f679d4cb80b68ee8e5a750202f39?pvs=74" target="_blank" style="text-decoration: none;">🍪 Profile</a><br/>
+  <a href="mailto:localhost9843@gmail.com" style="text-decoration: none;">☕ Mail</a>
 </p>
+
+
+
+
 
 <br/>
 <br/>
@@ -55,4 +53,3 @@ Here are some ideas to get you started:
 <br/>
 
 <br/><br/>
--->
