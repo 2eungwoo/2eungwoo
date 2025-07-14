@@ -1,5 +1,3 @@
-## 
-![snake gif](https://github.com/2eungwoo/2eungwoo/blob/output/github-contribution-grid-snake.svg)
 <!--
 **2eungwoo/2eungwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,41 +13,42 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- <h4 align="center"> ➖➖➖➖➖➖➖ </h4> -->
 
-<br/><br/>
-<p align="center"> 
-<a align="center" target="_blank" href="https://gyeongsun.com/"> 𝐒𝐦𝐚𝐥𝐥 𝐇𝐚𝐛𝐢𝐭𝐬 𝐌𝐚𝐤𝐞 𝐚 𝐁𝐢𝐠 𝐈𝐦𝐩𝐚𝐜𝐭 𝐨𝐧 𝐘𝐨𝐮𝐫 𝐋𝐢𝐟𝐞. </a> <br/>
-</p><br/>
-<!-- <h4 align="center"> ➖ </h4> -->
-<h3 align="center"> 
-  𝘈𝘯 𝘦𝘯𝘵𝘩𝘶𝘴𝘪𝘢𝘴𝘵𝘪𝘤 𝘢𝘯𝘥 𝘧𝘢𝘴𝘵 𝘭𝘦𝘢𝘳𝘯𝘦𝘳 <br/>𝘸𝘩𝘰 𝘦𝘯𝘫𝘰𝘺𝘴 𝘦𝘹𝘱𝘭𝘰𝘳𝘪𝘯𝘨 𝘢𝘯𝘥 𝘥𝘪𝘷𝘪𝘯𝘨 𝘪𝘯𝘵𝘰 𝘯𝘦𝘸 𝘬𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦, 𝘥𝘳𝘪𝘷𝘦𝘯 𝘣𝘺 𝘤𝘶𝘳𝘪𝘰𝘴𝘪𝘵𝘺
+<!-- 잔디먹는 뱀-->
+<p align="center">
+  <img src="https://github.com/2eungwoo/2eungwoo/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+<!-- 인용구 -->
+<h3 align="center">
+  ━━━━━━━━━━━━━━━━━━━━━<br/><br/>
+  " 𝘚𝘵𝘢𝘺 𝘩𝘶𝘯𝘨𝘳𝘺, 𝘴𝘵𝘢𝘺 𝘧𝘰𝘰𝘭𝘪𝘴𝘩. "
+  <br/> - 𝘚𝘵𝘦𝘷𝘦 𝘑𝘰𝘣𝘴 <br/><br/>
+  ━━━━━━━━━━━━━━━━━━━━━
 </h3>
-<br/>
-  <br/>
+
+
+
+<!-- 방문자 hits : 이제 안되는듯 -->
 <!-- <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgngsn&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>  -->
 
+<!-- 스킬셋 -->
+<!-- <img src="https://skillicons.dev/icons?i=java,spring,mysql,aws,docker,git,nginx,redis&perline=4"/> -->
+
+<!-- 
+##
+![snake gif](https://github.com/2eungwoo/2eungwoo/blob/output/github-contribution-grid-snake.svg) 
+-->
+
+<!-- 외부 링크 -->
 <p align="center">
-  <a href="https://2eungwoo.tistory.com/" target="_blank" style="text-decoration: none;">🙂 Blog</a><br/>
-  <a href="https://nonstop-snapper-a75.notion.site/2201f679d4cb80b68ee8e5a750202f39?pvs=74" target="_blank" style="text-decoration: none;">🍪 Profile</a><br/>
-  <a href="mailto:localhost9843@gmail.com" style="text-decoration: none;">☕ Mail</a>
+  <strong>
+    <a href="https://2eungwoo.tistory.com/" target="_blank" style="text-decoration: none;"> 🙂 Blog </a><br/>
+    <a href="https://nonstop-snapper-a75.notion.site/2201f679d4cb80b68ee8e5a750202f39?pvs=74" target="_blank" style="text-decoration: none;">&nbsp;&nbsp;   🍪 Profile</a><br/>
+    <a href="mailto:localhost9843@gmail.com" style="text-decoration: none;"> ☕ Mail</a>
+  </strong>
 </p>
-
-
-
-
-
-<br/>
-<br/>
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,aws,docker,git,nginx,redis&perline=4"/>
-
-</p>
-
-<br/>
-<br/>
-
-<br/><br/>
