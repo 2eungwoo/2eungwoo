@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 <!-- <h4 align="center"> ➖➖➖➖➖➖➖ </h4> -->
 
 <!-- 잔디먹는 뱀-->
+<!--
 <p align="center">
   <img src="https://github.com/2eungwoo/2eungwoo/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
+-->
 
 <!-- 인용구 -->
 <h3 align="center">
@@ -42,6 +44,7 @@ Here are some ideas to get you started:
 ##
 ![snake gif](https://github.com/2eungwoo/2eungwoo/blob/output/github-contribution-grid-snake.svg) 
 -->
+<br/>
 
 <!-- 외부 링크 -->
 <p align="center">
