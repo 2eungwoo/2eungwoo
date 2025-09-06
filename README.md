@@ -40,9 +40,9 @@ Here are some ideas to get you started:
   <a href="https://2eungwoo.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/🙂 Blog-white?style=for-the-badge&logo=tistory&logoColor=white&labelColor=4B1D3F" />
   </a>&nbsp;
-  <a href="https://nonstop-snapper-a75.notion.site/2201f679d4cb80b68ee8e5a750202f39?pvs=74" target="_blank">
+<!--   <a href="https://nonstop-snapper-a75.notion.site/2201f679d4cb80b68ee8e5a750202f39?pvs=74" target="_blank">
     <img src="https://img.shields.io/badge/🍪 Profile-white?style=for-the-badge&logo=notion&logoColor=white&labelColor=0D9488" />
-  </a>&nbsp;
+  </a>&nbsp; -->
   <a href="mailto:localhost9843@gmail.com">
     <img src="https://img.shields.io/badge/☕ Mail-white?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4338CA" />
   </a>
