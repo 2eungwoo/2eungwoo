@@ -13,11 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ➖➖➖➖➖➖➖ 텍스트 애니메이션 ➖➖➖➖➖➖➖ -->
-<!-- https://github.com/DenverCoder1/readme-typing-svg -->
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=😄🍪☕)](https://git.io/typing-svg) -->
-
-
 <!-- ➖➖➖➖➖➖➖ 인용구 ➖➖➖➖➖➖➖ -->
 <h3 align="center">
   ━━━━━━━━━━━━━━━━━━━━━<br/><br/>
@@ -26,14 +21,41 @@ Here are some ideas to get you started:
   ━━━━━━━━━━━━━━━━━━━━━
 </h3>
 
+<!-- ➖➖➖➖➖➖➖ 통계 ➖➖➖➖➖➖➖ -->
+<!-- 
+<p align="center">
+    https://github.com/anuraghazra/github-readme-stats
+    rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=2eungwoo&show_icons=true&hide_title=true&hide_border=true&theme=transparent&show=prs_merged&number_format=long&count_private=true&include_all_commits=true" alt="profile stats" title="profile stats">
+    https://github.com/DenverCoder1/github-readme-streak-stats
+    <img width="400" src="https://github-readme-streak-stats-ten-peach.vercel.app?user=2eungwoo&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="streak stats" title="streak stats" />
+</p>
+-->
+
+<!-- ➖➖➖➖➖➖➖ 활동 그래프 ➖➖➖➖➖➖➖ -->
+<!-- 
+<p align="center">
+    https://github.com/Ashutosh00710/github-readme-activity-graph 
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=2eungwoo&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
+</p>
+-->
+
+<!-- ➖➖➖➖➖➖➖ 트로피 ➖➖➖➖➖➖➖ -->
+<!--<p align="center">
+    https://github.com/ryo-ma/github-profile-trophy 
+    rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=2eungwoo&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="profile trophy" title="profile trophy"/>
+
+
+<!-- ➖➖➖➖➖➖➖ 텍스트 애니메이션 ➖➖➖➖➖➖➖ -->
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=😄🍪☕)](https://git.io/typing-svg) -->
+
+
 <!-- ➖➖➖➖➖➖➖ 방문자 hits : 이제 안되는듯 ➖➖➖➖➖➖➖ -->
 <!-- <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgngsn&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>  -->
-
-
-<!-- ➖➖➖➖➖➖➖ 스킬셋 ➖➖➖➖➖➖➖ -->
-<!-- <img src="https://skillicons.dev/icons?i=java,spring,mysql,aws,docker,git,nginx,redis&perline=4"/> -->
 
 
 <br/>
