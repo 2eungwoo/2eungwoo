@@ -78,8 +78,11 @@ Here are some ideas to get you started:
 <!-- ➖➖➖➖➖➖➖ 스킬 스택 ➖➖➖➖➖➖➖ -->
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,aws,docker&perline=7"/>
+</p> -->
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?i=java,spring,springbatch,mysql,redis,aws,docker"/>
 </p>
 
 <br/>
