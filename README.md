@@ -58,23 +58,6 @@ Here are some ideas to get you started:
 </p>  -->
 
 
-<br/>
-
-<!-- ➖➖➖➖➖➖➖ 외부 링크 : 뱃지 버전 ➖➖➖➖➖➖➖ --> <!-- 괜찮은 색깔들 : 약간짙은회색 (2C3E50), 약간 파란색인데 데님진같은느낌 4338CA, 와인색:4B1D3F, 올리브색:525E4D, 청녹색:0D9488-->
-<!-- 
-<p align="center">
-  <a href="https://2eungwoo.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🙂 Blog-white?style=for-the-badge&logo=tistory&logoColor=white&labelColor=4B1D3F" />
-  </a>&nbsp;
-<!--   <a href="https://nonstop-snapper-a75.notion.site/2201f679d4cb80b68ee8e5a750202f39?pvs=74" target="_blank">
-    <img src="https://img.shields.io/badge/🍪 Profile-white?style=for-the-badge&logo=notion&logoColor=white&labelColor=0D9488" />
-  </a>&nbsp; 
-  <a href="mailto:localhost9843@gmail.com">
-    <img src="https://img.shields.io/badge/☕ Mail-white?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4338CA" />
-  </a>
-</p>
--->
-
 <!-- ➖➖➖➖➖➖➖ 스킬 스택 ➖➖➖➖➖➖➖ -->
 <br/>
 
@@ -87,17 +70,31 @@ Here are some ideas to get you started:
 
 <br/>
 
+<!-- ➖➖➖➖➖➖➖ 외부 링크 : 뱃지 버전 ➖➖➖➖➖➖➖ --> <!-- 괜찮은 색깔들 : 약간짙은회색 (2C3E50), 약간 파란색인데 데님진같은느낌 4338CA, 와인색:4B1D3F, 올리브색:525E4D, 청녹색:0D9488-->
+
+<p align="center">
+  <a href="https://2eungwoo.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🙂 Blog-white?style=for-the-badge&logo=tistory&logoColor=white&labelColor=4B1D3F" />
+  </a>&nbsp;
+   <!-- <a href="https://nonstop-snapper-a75.notion.site/2201f679d4cb80b68ee8e5a750202f39?pvs=74" target="_blank">
+    <img src="https://img.shields.io/badge/🍪 Profile-white?style=for-the-badge&logo=notion&logoColor=white&labelColor=0D9488" />
+  </a>&nbsp;  -->
+  <a href="mailto:localhost9843@gmail.com">
+    <img src="https://img.shields.io/badge/☕ Mail-white?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4338CA" />
+  </a>
+</p>
+
 
 <!-- ➖➖➖➖➖➖➖ 외부 링크 : 순수 텍스트 버전 ➖➖➖➖➖➖➖ -->
-<p align="center">
+<!--  <p align="center">
   <strong>
     <a href="https://2eungwoo.tistory.com/" target="_blank" style="text-decoration: none;"> 🙂 Blog </a><br/>
-    <!-- <a href="https://nonstop-snapper-a75.notion.site/2201f679d4cb80b68ee8e5a750202f39?pvs=74" target="_blank" style="text-decoration: none;">&nbsp;&nbsp;   🍪 Profile</a><br/> -->
+    <a href="https://nonstop-snapper-a75.notion.site/2201f679d4cb80b68ee8e5a750202f39?pvs=74" target="_blank" style="text-decoration: none;">&nbsp;&nbsp;   🍪 Profile</a><br/> 
     <a href="mailto:localhost9843@gmail.com" style="text-decoration: none;"> ☕ Mail</a>
   </strong>
 </p>
 <p align="center"> 
-
+-->
   
 <br/>
 
