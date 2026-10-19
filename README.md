@@ -14,12 +14,31 @@ Here are some ideas to get you started:
 -->
 
 <!-- ➖➖➖➖➖➖➖ 인용구 ➖➖➖➖➖➖➖ -->
-<h3 align="center">
+<!-- <h3 align="center">
   ━━━━━━━━━━━━━━━━━━━━━<br/><br/>
   " 𝑑𝑜 𝑛𝑜𝑡 𝑏𝑒 𝑡𝑟𝑎𝑝𝑝𝑒𝑑 𝑏𝑦 𝑐𝑜𝑚𝑚𝑜𝑛 𝑠𝑒𝑛𝑠𝑒. "
   <br/><a href="https://www.youtube.com/watch?v=RItRaATgIhg">— <i>トラックの男.</i></a> <br/><br>
   ━━━━━━━━━━━━━━━━━━━━━
+</h3> -->
+
+<!-- <h3 align="center">
+  ━━━━━━━━━━━━━━━━━━━━━<br/><br/>
+  " 𝐼 𝑤𝑜𝑢𝑙𝑑 𝑝𝑟𝑒𝑓𝑒𝑟 𝑛𝑜𝑡 𝑡𝑜. "
+  <br/>
+  <sub>— Herman Melville, Bartleby, the Scrivener</sub>
+  <br/><br/>
+  ━━━━━━━━━━━━━━━━━━━━━
+</h3> -->
+
+<h3 align="center">
+  ━━━━━━━━━━━━━━━━━━━━━<br/><br/>
+  " 𝑁𝑜𝑡ℎ𝑖𝑛𝑔 𝑡𝑜 𝑏𝑒 𝑑𝑜𝑛𝑒. "
+  <br/>
+  <sub>— Samuel Beckett, Waiting for Godot</sub>
+  <br/><br/>
+  ━━━━━━━━━━━━━━━━━━━━━
 </h3>
+
 
 <!-- ➖➖➖➖➖➖➖ 통계 ➖➖➖➖➖➖➖ -->
 <!-- 
