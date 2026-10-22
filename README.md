@@ -41,8 +41,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">
   ━━━━━━━━━━━━━━━━━━━━━<br/><br/>
-  " repository deprecated. "
-  <br/>
+  " repository deprecated "
   <!-- <sub>— Samuel Beckett, Waiting for Godot</sub> -->
   <br/><br/>
   ━━━━━━━━━━━━━━━━━━━━━
