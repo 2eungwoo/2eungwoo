@@ -129,10 +129,10 @@ Here are some ideas to get you started:
 <br/>
 
 <!-- ➖➖➖➖➖➖➖ 잔디먹는 뱀 ➖➖➖➖➖➖➖ -->
-<!-- <div align="center">
+<div align="center">
   <details>
     <summary><strong>🐍🌳</strong></summary>
     <br/>
     <img src="https://github.com/2eungwoo/2eungwoo/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
   </details>
-</div> -->
+</div> 
